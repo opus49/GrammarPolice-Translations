@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>kode dua negara bagian</string>
+        <string>bantuan kode dua negara bagian</string>
+        <string>dua negara bagian</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2State</Target>
+</Action>

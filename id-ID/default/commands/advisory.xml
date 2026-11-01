@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>saya memiliki</string>
+        <string>saya memiliki</string>
+        <string>saya memiliki sebuah</string>
+        <string>saya memiliki sebuah</string>
+        <string>saya memiliki satu</string>
+        <string>saya memiliki dua</string>
+        <string>saya memiliki tiga</string>
+        <string>saya memiliki empat</string>
+
+        <string>kami memiliki</string>
+        <string>kami memiliki</string>
+        <string>kami memiliki sebuah</string>
+        <string>kami memiliki sebuah</string>
+        <string>kami memiliki satu</string>
+        <string>kami memiliki dua</string>
+        <string>kami memiliki tiga</string>
+        <string>kami memiliki empat</string>
+      
+        <string>tersangka adalah</string>
+        <string>sipil adalah</string>
+    </Phrases>
+</Command>

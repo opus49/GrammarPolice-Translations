@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+        <string>menuju</string>
+        <string>saya sedang menuju</string>
+        <string>saya</string>
+        <string>saya sedang menuju</string>
+        <string>catat saya</string>
+        <string>catat kami</string>
+        <string>kami sedang</string>
+        <string>kami sedang menuju</string>
+    </Phrases>
+</Command>

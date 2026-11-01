@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+        <string>bolehkah saya minta</string>
+        <string>saya butuh</string>
+        <string>saya butuh</string>
+        <string>saya butuh</string>
+        <string>saya butuh beberapa</string>
+        <string>permintaan</string>
+        <string>meminta</string>
+        <string>kirimkan ke saya</string>
+        <string>kirim</string>
+        <string>kami butuh</string>
+    </Phrases>
+</Command>

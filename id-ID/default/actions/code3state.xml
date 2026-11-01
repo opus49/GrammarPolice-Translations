@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>bantuan negara bagian</string>
+        <string>polisi negara bagian</string>
+        <string>kode tiga negara bagian</string>
+        <string>bantuan kode tiga negara bagian</string>
+        <string>tiga negara bagian</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3State</Target>
+</Action>

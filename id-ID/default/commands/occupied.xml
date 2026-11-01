@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+        <string>kami memiliki mobil empat pintu</string>
+        <string>kami memiliki mobil dua pintu</string>
+        <string>kami memiliki sedan</string>
+        <string>kami memiliki coupe</string>
+        <string>kami memiliki kendaraan roda empat</string>
+        <string>kami memiliki kereta golf</string>
+        <string>kami memiliki sepeda motor</string>
+        <string>kami memiliki sepeda</string>
+        <string>saya memiliki mobil empat pintu</string>
+        <string>saya memiliki mobil dua pintu</string>
+        <string>saya memiliki sedan</string>
+        <string>saya memiliki coupe</string>
+        <string>saya memiliki kendaraan roda empat</string>
+        <string>saya memiliki kereta golf</string>
+        <string>saya memiliki sepeda motor</string>
+        <string>saya memiliki sepeda</string>
+        <string>ini akan menjadi mobil empat pintu</string>
+        <string>ini akan menjadi mobil dua pintu</string>
+        <string>ini akan menjadi sedan</string>
+        <string>ini akan menjadi coupe</string>
+        <string>ini akan menjadi kendaraan roda empat</string>
+        <string>ini akan menjadi kereta golf</string>
+        <string>ini akan menjadi sepeda motor</string>
+        <string>ini akan menjadi sepeda</string>
+    </Phrases>
+</Command>

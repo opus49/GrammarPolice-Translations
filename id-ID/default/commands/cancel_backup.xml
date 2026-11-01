@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_backup</Name>
+    <Action>cancel_backup</Action>
+    <Phrases>
+        <string>batalkan bantuan</string>
+        <string>batalkan semua bantuan</string>
+        <string>batalkan semua yang menuju ke sini</string>
+    </Phrases>
+</Command>

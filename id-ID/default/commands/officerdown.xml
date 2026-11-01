@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>officerdown</Name>
+    <Action>officerdown</Action>
+    <Phrases>
+        <string>petugas tumbang</string>
+        <string>kami memiliki petugas yang tumbang</string>
+        <string>saya memiliki petugas yang tumbang</string>
+    </Phrases>
+</Command>

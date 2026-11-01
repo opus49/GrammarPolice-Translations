@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_3</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>pendudukan satu kali meminta tambahan</string>
+        <string>pendudukan dua kali meminta tambahan</string>
+        <string>pendudukan tiga kali meminta tambahan</string>
+        <string>pendudukan satu kali meminta bantuan</string>
+        <string>pendudukan dua kali meminta bantuan</string>
+        <string>pendudukan tiga kali meminta bantuan</string>
+        <string>pendudukan empat kali</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>3</Value>
+        </Parameter>
+    </Parameters>
+</Action>

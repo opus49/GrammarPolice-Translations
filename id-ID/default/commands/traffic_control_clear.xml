@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_clear</Name>
+    <Action>traffic_control_clear</Action>
+    <Phrases>
+        <string>bersihkan semua lalu lintas</string>
+        <string>bersihkan lalu lintas</string>
+        <string>bersihkan kendali lalu lintas</string>
+    </Phrases>
+</Command>

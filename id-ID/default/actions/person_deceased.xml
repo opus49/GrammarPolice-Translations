@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_deceased</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+	    <string>meninggal</string>
+	    <string>tewas</string>
+		<string>tersangka tewas</string>
+	    <string>orang tewas</string>
+	    <string>petugas tewas</string>
+	    <string>sipil tewas</string>
+		<string>tersangka meninggal</string>
+	    <string>orang meninggal</string>
+	    <string>petugas meninggal</string>
+	    <string>sipil meninggal</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.PersonDeceased</Target>
+</Action>

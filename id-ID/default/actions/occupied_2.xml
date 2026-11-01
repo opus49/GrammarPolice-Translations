@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>pendudukan satu kali tanpa tambahan</string>
+        <string>pendudukan dua kali tanpa tambahan</string>
+        <string>pendudukan tiga kali tanpa tambahan</string>
+        <string>pendudukan satu kali tanpa bantuan</string>
+        <string>pendudukan dua kali tanpa bantuan</string>
+        <string>pendudukan tiga kali tanpa bantuan</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

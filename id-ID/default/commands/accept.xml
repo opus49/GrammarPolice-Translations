@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>dalam perjalanan</string>
+        <string>saya akan memeriksanya</string>
+        <string>sedang menuju ke sana</string>
+        <string>merespons</string>
+    </Phrases>
+</Command>
